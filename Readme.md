@@ -1,12 +1,12 @@
 # Python A-Z: Python for Data Science with Real Exercises
 
 🚀 Scalar Quantities: Completely descriped by their mangitude (Amount or size)
-🚀 Vector Quantities: Completely descriped by their Mangitude, and Direction
+🚀 Vector Quantities: Completely descriped by their `Mangitude, and Direction`
 🚀 Vector:
-   initial point
-   terminal point
-   distance between initial point, terminal point is called Magnitude
-🚀 Scalar languages In scalar languages such as C and Pascal, operations apply only to single values,
+   `initial point`
+   `terminal point`
+   `distance between initial point, terminal point is called Magnitude`
+🚀 Scalar languages In scalar languages such as C and Pascal, operations` apply only to single values,`
 🚀 Reconsolidation of Different Types of Programming Languages:
     High Level:
       Object Oriented:
@@ -37,26 +37,35 @@ array1 = np.array([1, 2, 3])
 array2 = np.array([2, 2, 2])
 array1 * array2
 >> array([2, 4, 6])
-🚀
-🚀
-🚀
-🚀
-🚀
-🚀
-🚀
-🚀
-🚀
-🚀
-🚀
-🚀
-🚀
-🚀
-🚀
-🚀
-🚀
-🚀
-🚀
-🚀
+🚀 None In Python is Equal to Null in Other Programming Languages
+🚀 Nested Statemetns are not the same as Chained Statements 
+🚀 Coding Indentation in Python
+🚀 random is a module into numpy which function randn() is part of it
+🚀 Reconsolidation of Mean / Expected value
+🚀 Converting Frequency Distribution Table -< Probability Distribution Table
+🚀 Law of Large Numbers:
+   n (Number of elements in sample) -< Infinity
+   then mean of sample values go nearer, and nearer to population mean (Expected Value)
+   The more elements are, the more we go from experimental probabilities to Theoratical Probabilities
+🚀 Slicing in Python === Subsetting
+🚀 Positive Indexation or Negative Indexation In Indexing
+🚀 Python Packages:
+    - Find Package
+    - Install Package
+    - Import Package | Function
+
+🚀 If you want to create a second a window for the terminal while you're running the first winodw
+   for anaconda, Run Command+T
+🚀 Just see this Image…….We understand that Package contains a collection of modules and a module contains a collection of Functions.
+Thus, we can say Functions are the subset of modules and Modules are the subset of Packages.
+🚀 There are two types of array in python:
+       - There are arrays that're built in core of Python
+       - There are also Numpy Arrays
+🚀 Numpy Array protects computer memory (e.g: not creating copy of array when slicing happens)
+🚀 Matrix Population:
+    in Python Like C- Programming Language (Rows Populated First)
+    in R Like Fortran Programming Langauge (Columns Populated First)
+🚀 Supress Warnings in Python, Jupyter Notebook through warnings Module
 🚀
 🚀
 🚀

@@ -1,6 +1,6 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/python,macos,jupyternotebooks
-# Edit at https://www.toptal.com/developers/gitignore?templates=python,macos,jupyternotebooks
+# Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks,macos,python
+# Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks,macos,python
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
@@ -182,4 +182,4 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-# End of https://www.toptal.com/developers/gitignore/api/python,macos,jupyternotebooks
+# End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,macos,python
